@@ -28,7 +28,7 @@ const frameMetadata = getFrameMetadata({
 });
 
 export const metadata: Metadata = {
-  title: 'zizzamia.xyz',
+  title: 'SuperRare Frames',
   description: 'LFG',
   openGraph: {
     title: 'zizzamia.xyz',
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <h1>zizzamia.xyz</h1>
+      <h1>Best Frame Ever</h1>
     </>
   );
 }
